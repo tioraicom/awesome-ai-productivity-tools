@@ -194,6 +194,7 @@ Finding the thing somebody already wrote, wherever they put it.
 - **[Guru](https://www.getguru.com/)** — Knowledge base that surfaces verified answers in the tools people already have open. `Freemium` `Web` `Browser Extension`
 - **[Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)** — Assistance inside Word, Excel, Outlook, and Teams, grounded in an organisation's own files. `Paid` `Web` `Windows` `macOS` `iOS` `Android`
 - **[Moveworks](https://www.moveworks.com/)** — Resolves internal IT and HR requests in chat, aimed at the ticket queue rather than search. `Paid` `Web`
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** — Coordinates specialist agents for research, documents, presentations, video, and recurring work through one desktop conversation. `Open Source` `Windows` `macOS` `Linux`
 - **[Slack AI](https://slack.com/features/ai)** — Channel recaps, thread summaries, and search over conversations a team has already had. `Paid` `Web` `Windows` `macOS` `iOS` `Android`
 
 ## Personal automation
