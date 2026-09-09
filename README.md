@@ -176,6 +176,7 @@ Getting through the reading list, and remembering any of it.
 Drafting and revising the writing a working week actually contains.
 
 - **[Grammarly](https://www.grammarly.com/)** — Grammar, tone, and clarity checking that follows you across applications rather than one editor. `Freemium` `Web` `Windows` `macOS` `Browser Extension` · [vs QuillBot](https://tiorai.com/compare/grammarly-vs-quillbot/)
+- **[ResumeAI](https://withresumeai.com/)** — AI resume builder with a free ATS checker for job applications. `Freemium` `Web`
 - **[Jasper](https://www.jasper.ai/)** — Writing platform built around brand voice and templates, aimed at teams producing regularly. `Paid` `Web` `Browser Extension`
 - **[LanguageTool](https://languagetool.org/)** — Grammar and style checking across more than twenty languages, with a self-hostable engine. `Freemium` `Web` `API` `Browser Extension`
 - **[ProWritingAid](https://prowritingaid.com/)** — Long-form reports on pacing, repetition, and readability, aimed at documents rather than sentences. `Freemium` `Web` `Windows` `macOS` `Browser Extension`
