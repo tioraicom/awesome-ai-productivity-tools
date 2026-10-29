@@ -110,6 +110,7 @@ Tracking work, and writing less of the status update.
 
 - **[Asana](https://asana.com/)** — Project tracking with generated status summaries and smart fields across large workspaces. `Freemium` `Web` `Windows` `macOS` `iOS` `Android` · [vs ClickUp](https://tiorai.com/compare/asana-ai-vs-clickup-ai/)
 - **[ClickUp](https://clickup.com/)** — Wide-scope work platform with an assistant that writes updates and summarises threads. `Freemium` `Web` `Windows` `macOS` `iOS` `Android` · [vs Notion](https://tiorai.com/compare/clickup-ai-vs-notion-ai/)
+- **[JobEmerge](https://www.jobemerge.work/)** — Tracks job applications alongside resume translation, job-fit checks, and text mock interviews. `Freemium` `Web`
 - **[Linear](https://linear.app/)** — Issue tracking built for speed, with generated summaries and triage on incoming reports. `Freemium` `Web` `Windows` `macOS` `iOS` `Android`
 - **[monday.com](https://monday.com/)** — Configurable work boards with generated updates, aimed at teams that want columns rather than tickets. `Freemium` `Web` `Windows` `macOS` `iOS` `Android` · [vs Asana](https://tiorai.com/compare/monday-com-ai-vs-asana-ai/)
 - **[Taskade](https://www.taskade.com/)** — Outlines, mind maps, and task lists in one workspace, with agents that work a project list. `Freemium` `Web` `Windows` `macOS` `iOS` `Android`
