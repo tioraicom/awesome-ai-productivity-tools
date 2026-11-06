@@ -164,6 +164,7 @@ Getting to a first draft deck without opening a blank slide.
 Getting through the reading list, and remembering any of it.
 
 - **[Gemini Notebook](https://notebook.google/)** — Answers only from documents you upload, with citations, and will produce an audio overview. `Freemium` `Web`
+- **[DisconfirmAI](https://disconfirmai.com/en)** — Daily AI and investing reading with source links, plus research that looks for evidence that could overturn a view before you lock in conviction. `Freemium` `Web`
 - **[Glasp](https://glasp.co/)** — Highlights web pages and videos, then exports everything to your notes app automatically. `Freemium` `Web` `Browser Extension`
 - **[Perplexity](https://www.perplexity.ai/)** — Answer engine that searches and cites inline, useful when the question is not worth a full search session. `Freemium` `Web` `iOS` `Android`
 - **[Readwise](https://readwise.io/)** — Collects highlights from books, articles, and papers, then resurfaces them on a schedule. `Paid` `Web` `iOS` `Android`
